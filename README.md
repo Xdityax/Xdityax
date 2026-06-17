@@ -34,6 +34,62 @@
 
 <br>🔭 I’m currently working on Full-Stack Web Applications, AI-powered solutions, and Cyber Security projects.<br><br>👯 I’m looking to collaborate on Open Source, AI/LLM, and Full-Stack Development projects.<br><br>🤝 I’m looking for help with Cloud Deployment, System Design, and Advanced AI Integrations.<br><br>🌱 I’m currently learning Advanced React, Node.js, System Design, and Generative AI.<br><br>💬 Ask me about Web Development, JavaScript, React, Node.js, Cyber Security, and AI Applications.<br><br>⚡ Fun fact: I enjoy turning real-world problems into practical software solutions and continuously exploring new technologies.
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 AI-Powered Customer Support Chatbot
+
+An intelligent customer support chatbot designed to automate customer interactions, answer FAQs, and provide real-time assistance using AI.
+
+### Key Highlights
+- AI-powered conversational responses
+- Context-aware customer interactions
+- FAQ knowledge base integration
+- Fast and scalable backend architecture
+- Responsive React frontend
+
+<p>
+<a href="https://github.com/Xdityax/Ai-Powerd-Chatbot">
+<img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge">
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ✍️ Document Signature App
+
+A secure document management and digital signature platform that enables users to upload, sign, track, and manage documents online.
+
+### Key Highlights
+- Secure digital signature workflow
+- PDF document upload and management
+- User authentication and authorization
+- Real-time document status tracking
+- Cloud storage with Supabase
+
+<p>
+<a href="https://github.com/Xdityax/Document-signature">
+<img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xdityax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi._.bhatnagar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityabhatnagar0203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabhatnagar3006@gmail.com) 
