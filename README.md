@@ -1,8 +1,13 @@
 <div align="center">
 <pre>
 
-<img align="center" alt="Coding" width="280" src="<img width="1536" height="1024" alt="b48f9b78-1395-4e0a-b3f9-bab8369cfab3" src="https://github.com/user-attachments/assets/090d8032-3743-479b-a940-1a29cacacd45" />
-">
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/090d8032-3743-479b-a940-1a29cacacd45"
+    alt="Aditya Bhatnagar"
+    width="900"
+  />
+</p>
 
 
 <p align="center">
