@@ -1,7 +1,7 @@
 <div align="center">
 <pre>
 
-<img align="center" alt="Coding" width="280" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000004c5471fababe88ae2f261cac&ts=495135&p=fs&cid=1&sig=1a47c39009e0f1a9a242efd09c8d6fe3f1056073acdc02695db135ebfec40e88&v=0">
+<img align="center" alt="Coding" width="280" src="C:\Users\adity\OneDrive\Desktop\me\wallpaper\b48f9b78-1395-4e0a-b3f9-bab8369cfab3.png">
 
 
 <p align="center">
