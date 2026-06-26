@@ -1,22 +1,8 @@
 <div align="center">
 <pre>
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║      _    ____ ___ _____ _   ___   __                                                ║
-║     / \  |  _ \_ _|_   _| | | \ \ / /                                                ║
-║    / _ \ | | | | |  | | | |_| |\ V /                                                 ║
-║   / ___ \| |_| | |  | | |  _  | | |                                                  ║
-║  /_/   \_\____/___| |_| |_| |_| |_|                                                  ║
-║                                                                                      ║
-║   ____  _   _    _  _____ _   _    _    ____    _    ____                            ║
-║  | __ )| | | |  / \|_   _| \ | |  / \  / ___|  / \  |  _ \                           ║
-║  |  _ \| |_| | / _ \ | | |  \| | / _ \| |  _  / _ \ | |_) |                          ║
-║  | |_) |  _  |/ ___ \| | | |\  |/ ___ \ |_| |/ ___ \|  _ <                           ║
-║  |____/|_| |_/_/   \_\_| |_| \_/_/   \_\____/_/   \_\_| \_\                          ║
-║                                                                                      ║
-║                    Full Stack Developer | Software Developer                         ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+<img align="center" alt="Coding" width="280" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000004c5471fababe88ae2f261cac&ts=495135&p=fs&cid=1&sig=1a47c39009e0f1a9a242efd09c8d6fe3f1056073acdc02695db135ebfec40e88&v=0">
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Bhatnagar;Full+Stack+AI+Engineer" />
