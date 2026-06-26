@@ -5,7 +5,7 @@
   <img
     src="https://github.com/user-attachments/assets/090d8032-3743-479b-a940-1a29cacacd45"
     alt="Aditya Bhatnagar"
-    width="400"
+    width="600"
   />
 </p>
 
