@@ -1,7 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:4b0082&height=220&section=header&text=Aditya%20Bhatnagar%20%7C%20Software%20Engineer&fontSize=42&fontColor=E6E6FA&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Full%20Stack%20%C2%B7%20Product%20Engineering&descAlignY=58&descSize=18)
-
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:4A4A4A,100:8A8A8A&height=220&section=header&text=Aditya%20Bhatnagar%20%7C%20Software%20Engineer&fontSize=42&fontColor=F2F2F2&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Full%20Stack%20%C2%B7%20Product%20Engineering&descAlignY=58&descSize=18)
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+software+systems;AI%2FML+%7C+Full+Stack+%7C+Security+Engineering;Turning+ideas+into+production-grade+products&font=Fira+Code&center=true&width=600&height=45&color=B19CD9&vCenter=true&size=22&pause=1200&colorBackground=00000000" alt="Typing SVG" />
 </a>
