@@ -2,8 +2,6 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:4A4A4A,100:8A8A8A&height=220&section=header&text=Aditya%20Bhatnagar%20%7C%20Software%20Engineer&fontSize=42&fontColor=F2F2F2&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Full%20Stack%20%C2%B7%20Product%20Engineering&descAlignY=58&descSize=18)
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+software+systems;AI%2FML+%7C+Full+Stack+%7C+Security+Engineering;Turning+ideas+into+production-grade+products&font=Fira+Code&center=true&width=600&height=45&color=B19CD9&vCenter=true&size=22&pause=1200&colorBackground=00000000" alt="Typing SVG" />
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+software+systems;AI%2FML+%7C+Full+Stack+%7C+Security+Engineering;Turning+ideas+into+production-grade+products&font=Fira+Code&center=true&width=600&height=45&color=8A8A8A&vCenter=true&size=22&pause=1200&colorBackground=00000000" alt="Typing SVG" />
 </a>
 
@@ -116,7 +114,7 @@ A secure document management and digital signature platform that enables users t
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:4A4A4A,100:8A8A8A&height=120&section=footer" alt="Gray Footer" />
 </p>
 
 ---
