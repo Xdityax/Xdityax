@@ -3,19 +3,30 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:4A4A4A,100:8A8A8A&height=220&section=header&text=Aditya%20Bhatnagar%20%7C%20Software%20Engineer&fontSize=42&fontColor=F2F2F2&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Full%20Stack%20%C2%B7%20Product%20Engineering&descAlignY=58&descSize=18)
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+software+systems;AI%2FML+%7C+Full+Stack+%7C+Security+Engineering;Turning+ideas+into+production-grade+products&font=Fira+Code&center=true&width=600&height=45&color=B19CD9&vCenter=true&size=22&pause=1200&colorBackground=00000000" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+software+systems;AI%2FML+%7C+Full+Stack+%7C+Security+Engineering;Turning+ideas+into+production-grade+products&font=Fira+Code&center=true&width=600&height=45&color=8A8A8A&vCenter=true&size=22&pause=1200&colorBackground=00000000" alt="Typing SVG" />
 </a>
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/📍-New%20Delhi,%20India-4B0082?style=flat-square&labelColor=1a1a2e)
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-8A8A8A?style=flat-square&labelColor=121212)
+![Location](https://img.shields.io/badge/📍-New%20Delhi,%20India-666666?style=flat-square&labelColor=121212)
 
-<a href="https://www.linkedin.com/in/adityabhatnagar0203/"><img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:adityabhatnagar3006@gmail.com"><img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Xdityax"><img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/adityabhatnagar0203/">
+  <img src="https://img.shields.io/badge/LinkedIn-4A4A4A?style=for-the-badge&logo=linkedin&logoColor=F2F2F2" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Xdityax&color=6a0dad&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Xdityax?color=6a0dad&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/Xdityax?color=6a0dad&style=flat-square&label=Stars)
+<a href="mailto:adityabhatnagar3006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-666666?style=for-the-badge&logo=gmail&logoColor=F2F2F2" />
+</a>
 
+<a href="https://github.com/Xdityax">
+  <img src="https://img.shields.io/badge/GitHub-8A8A8A?style=for-the-badge&logo=github&logoColor=121212" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xdityax&color=666666&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Xdityax?color=666666&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/Xdityax?color=8A8A8A&style=flat-square&label=Stars)
+
+</div>
 </div>
 
 ---
